@@ -1,0 +1,14 @@
+C:\Users\antho\Desktop\Calc Imc\Calc Imc\Calc Imc\bin\Debug\Calc Imc.exe.config
+C:\Users\antho\Desktop\Calc Imc\Calc Imc\Calc Imc\bin\Debug\Calc Imc.exe
+C:\Users\antho\Desktop\Calc Imc\Calc Imc\Calc Imc\bin\Debug\Calc Imc.pdb
+C:\Users\antho\Desktop\Calc Imc\Calc Imc\Calc Imc\obj\Debug\Calc Imc.csproj.AssemblyReference.cache
+C:\Users\antho\Desktop\Calc Imc\Calc Imc\Calc Imc\obj\Debug\Calc Imc.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\Calc Imc\Calc Imc\Calc Imc\obj\Debug\Calc Imc.exe
+C:\Users\antho\Desktop\Calc Imc\Calc Imc\Calc Imc\obj\Debug\Calc Imc.pdb
+C:\Users\antho\Desktop\Calc Imc\Calc Imc\bin\Debug\Calc Imc.exe.config
+C:\Users\antho\Desktop\Calc Imc\Calc Imc\bin\Debug\Calc Imc.exe
+C:\Users\antho\Desktop\Calc Imc\Calc Imc\bin\Debug\Calc Imc.pdb
+C:\Users\antho\Desktop\Calc Imc\Calc Imc\obj\Debug\Calc Imc.csproj.AssemblyReference.cache
+C:\Users\antho\Desktop\Calc Imc\Calc Imc\obj\Debug\Calc Imc.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\Calc Imc\Calc Imc\obj\Debug\Calc Imc.exe
+C:\Users\antho\Desktop\Calc Imc\Calc Imc\obj\Debug\Calc Imc.pdb
